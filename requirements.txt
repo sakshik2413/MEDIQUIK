@@ -1,0 +1,10 @@
+﻿streamlit
+stripe
+torch
+transformers
+Pillow
+gTTS
+numpy
+passlib
+Requests
+pandas
